@@ -139,6 +139,10 @@ function WeatherApp() {
           </div>
         </div>
       </section>
+
+      <footer>
+          <div>Desarrollado por <span>AlanCZ dev</span></div>
+        </footer>
     </article>
   );
 }

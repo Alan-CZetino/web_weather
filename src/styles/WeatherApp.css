@@ -4,7 +4,7 @@ body{
 
 .container{
     width: 607px;
-    height: 829px;
+    height: 850px;
     margin: auto;
     margin-top: 75px;
     border-radius: 12px;
@@ -96,5 +96,16 @@ body{
 
 .icon{
     margin-top: 10px;
+}
+
+footer{
+    display:flex;
+    justify-content: center;
+    margin-top: 25px;
+    color:white
+}
+
+footer span{
+    font-weight: bold;
 }
 
